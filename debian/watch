@@ -1,0 +1,5 @@
+Version: 5
+
+Source: https://download.drobilla.net/
+Matching-Pattern: zix-@ANY_VERSION@@ARCHIVE_EXT@
+Pgp-Mode: auto

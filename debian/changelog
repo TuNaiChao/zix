@@ -1,5 +1,36 @@
-template-repository (1.0-1) unstable; urgency=medium
+zix (0.8.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 0.8.0
+  * debian/control:
+    - Bump Standards-Version
+    - Drop RRR: no
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sebastian Ramacher <sramacher@debian.org>  Sun, 16 Nov 2025 18:55:35 +0100
+
+zix (0.6.2-1) unstable; urgency=medium
+
+  * Team upload
+
+  [ Olivier Humbert ]
+  * Update d/control (typo fix)
+
+  [ Dennis Braun ]
+  * New upstream version 0.6.2
+  * Bump Standards-Version to 4.7.0
+  * Update symbols file
+  * Update d/copyright years
+
+ -- Dennis Braun <snd@debian.org>  Sun, 09 Feb 2025 11:06:02 +0100
+
+zix (0.4.2-2) unstable; urgency=medium
+
+  * debian/watch: Switch to downloads from drobilla's website
+  * debian/: Verify upstream signature
+
+ -- Sebastian Ramacher <sramacher@debian.org>  Wed, 01 Nov 2023 19:08:47 +0100
+
+zix (0.4.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1055051)
+
+ -- Sebastian Ramacher <sramacher@debian.org>  Mon, 30 Oct 2023 22:18:06 +0100
