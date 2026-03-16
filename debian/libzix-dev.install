@@ -1,0 +1,3 @@
+usr/include
+usr/lib/*/libzix*.so
+usr/lib/*/pkgconfig
